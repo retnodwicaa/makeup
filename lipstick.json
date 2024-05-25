@@ -1,92 +1,95 @@
-[
-    {
-        "name": "Maybelline",
-        "finish": "Matte",
-        "pigmentation": "High",
-        "longevity": "Long-lasting",
-        "moisturizing": "Medium",
-        "formula": "Liquid",
-        "photo": "https://api.watsons.co.id/medias/zoom-back-83525.jpg?context=bWFzdGVyfHd0Y2lkL2ltYWdlc3w0NTQ2NHxpbWFnZS9qcGVnfGFEUXhMMmd5T1M4eE1UWTVNalF6TnpZd01qTXpOQzk2YjI5dExXSmhZMnN0T0RNMU1qVXVhbkJufGU3YmRmNzIzNDkxZGZkMDRiMjIzYjAxMjMyMTJmNGVjYzY0Nzk3YzRjMTU0NTNhYTNiNDQ0OGUzZjM4MDBkZDA"
-    },
-    {
-        "name": "Wardah",
-        "finish": "Glossy",
-        "pigmentation": "Medium",
-        "longevity": "Regular",
-        "moisturizing": "High",
-        "formula": "Cream",
-        "photo":"https://d2jlkn4m127vak.cloudfront.net/medias/products/variant-1575352985.png"
-    },
-    {
-        "name": "Dior",
-        "finish": "Satin",
-        "pigmentation": "High",
-        "longevity": "Long-lasting",
-        "moisturizing": "Medium",
-        "formula": "Stick",
-        "photo":"https://dynamic.zacdn.com/xc8_RoODcwTjnxvbVGmdSsedb_o=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/dior-7724-2911614-1.jpg"
-    },
-    {
-        "name": "Somethinc",
-        "finish": "Sheer",
-        "pigmentation": "Low",
-        "longevity": "Regular",
-        "moisturizing": "High",
-        "formula": "Balm",
-        "photo":"https://api.watsons.co.id/medias/prd-front-38078.jpg?context=bWFzdGVyfGltYWdlc3wzOTAzN3xpbWFnZS9qcGVnfGFEaG1MMmhqT1M4eE1qZzBOREEyTmpZek5UZ3dOaTlYVkVOSlJDMHpPREEzT0MxbWNtOXVkQzVxY0djfDI2NjQwMDk1Mjg1NjU2MDA4MjI4MzU2MTc0ZDgxZWIzOWY3ZDc1NGM4MDUwYzg1MmU0ZjUzNTQwNWNmMDA3OTA"
-    },
-    {
-        "name": "Revlon",
-        "finish": "Matte",
-        "pigmentation": "High",
-        "longevity": "Long-lasting",
-        "moisturizing": "Low",
-        "formula": "Liquid",
-        "photo":"https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/MTA-129125936/revlon_revlon_super_lustrous_lipstick-_revlon_red_full01_vk55w5jd.jpg"
-    },
-    {
-        "name": "MakeOver",
-        "finish": "Glossy",
-        "pigmentation": "Medium",
-        "longevity": "Regular",
-        "moisturizing": "High",
-        "formula": "Cream",
-        "photo":"https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//96/MTA-89353300/br-m036969-02011_cas-makeover-color-stick-matte-crayon-lipstick-make-over_full01.jpg"
-    },
-    {
-        "name": "Focallure",
-        "finish": "Satin",
-        "pigmentation": "High",
-        "longevity": "Long-lasting",
-        "moisturizing": "Medium",
-        "formula": "Stick",
-        "photo":"https://images.tokopedia.net/img/cache/500-square/VqbcmM/2023/4/9/4100747e-7f0f-4a7f-bdca-93474f92c273.jpg"
-    },
-    {
-        "name": "Barenbliss",
-        "finish": "Sheer",
-        "pigmentation": "Low",
-        "longevity": "Regular",
-        "moisturizing": "High",
-        "formula": "Balm",
-        "photo":"https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//104/MTA-89351834/barenbliss_barenbliss-cherry-makes-cheerful-lip-velvet_full01.jpg"
-    },
-    {
-        "name": "Y.O.U",
-        "finish": "Matte",
-        "pigmentation": "High",
-        "longevity": "Long-lasting",
-        "moisturizing": "Medium",
-        "formula": "Liquid",
-        "photo":"https://dynamic.zacdn.com/MNKR8a9UKn6Zr0V3TlR7tRwcHbQ=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/you-makeups-8581-6611282-1.jpg"
-    },
-    {
-        "name": "YSL",
-        "finish": "Glossy",
-        "pigmentation": "Medium",
-        "longevity": "Regular",
-        "moisturizing": "High",
-        "formula": "Cream",
-        "photo":"https://www.yslbeauty.co.id/dw/image/v2/BFZM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw79b69d60/images/PACKSHOTS/MAKEUP/LIPS/WW-51083YSL_new_rouge_pur_couture/3614273945165_new-rouge-pur-couture_main.jpg?sw=465&sh=465&sm=cut&sfrm=png&q=85"
-    }
-]
+{
+    "result": [
+        {
+            "name": "Maybelline",
+            "finish": "Matte",
+            "pigmentation": "High",
+            "longevity": "Long-lasting",
+            "moisturizing": "Medium",
+            "formula": "Liquid",
+            "photo": "https://api.watsons.co.id/medias/zoom-back-83525.jpg?context=bWFzdGVyfHd0Y2lkL2ltYWdlc3w0NTQ2NHxpbWFnZS9qcGVnfGFEUXhMMmd5T1M4eE1UWTVNalF6TnpZd01qTXpOQzk2YjI5dExXSmhZMnN0T0RNMU1qVXVhbkJufGU3YmRmNzIzNDkxZGZkMDRiMjIzYjAxMjMyMTJmNGVjYzY0Nzk3YzRjMTU0NTNhYTNiNDQ0OGUzZjM4MDBkZDA"
+        },
+        {
+            "name": "Wardah",
+            "finish": "Glossy",
+            "pigmentation": "Medium",
+            "longevity": "Regular",
+            "moisturizing": "High",
+            "formula": "Cream",
+            "photo":"https://d2jlkn4m127vak.cloudfront.net/medias/products/variant-1575352985.png"
+        },
+        {
+            "name": "Dior",
+            "finish": "Satin",
+            "pigmentation": "High",
+            "longevity": "Long-lasting",
+            "moisturizing": "Medium",
+            "formula": "Stick",
+            "photo":"https://dynamic.zacdn.com/xc8_RoODcwTjnxvbVGmdSsedb_o=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/dior-7724-2911614-1.jpg"
+        },
+        {
+            "name": "Somethinc",
+            "finish": "Sheer",
+            "pigmentation": "Low",
+            "longevity": "Regular",
+            "moisturizing": "High",
+            "formula": "Balm",
+            "photo":"https://api.watsons.co.id/medias/prd-front-38078.jpg?context=bWFzdGVyfGltYWdlc3wzOTAzN3xpbWFnZS9qcGVnfGFEaG1MMmhqT1M4eE1qZzBOREEyTmpZek5UZ3dOaTlYVkVOSlJDMHpPREEzT0MxbWNtOXVkQzVxY0djfDI2NjQwMDk1Mjg1NjU2MDA4MjI4MzU2MTc0ZDgxZWIzOWY3ZDc1NGM4MDUwYzg1MmU0ZjUzNTQwNWNmMDA3OTA"
+        },
+        {
+            "name": "Revlon",
+            "finish": "Matte",
+            "pigmentation": "High",
+            "longevity": "Long-lasting",
+            "moisturizing": "Low",
+            "formula": "Liquid",
+            "photo":"https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/MTA-129125936/revlon_revlon_super_lustrous_lipstick-_revlon_red_full01_vk55w5jd.jpg"
+        },
+        {
+            "name": "MakeOver",
+            "finish": "Glossy",
+            "pigmentation": "Medium",
+            "longevity": "Regular",
+            "moisturizing": "High",
+            "formula": "Cream",
+            "photo":"https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//96/MTA-89353300/br-m036969-02011_cas-makeover-color-stick-matte-crayon-lipstick-make-over_full01.jpg"
+        },
+        {
+            "name": "Focallure",
+            "finish": "Satin",
+            "pigmentation": "High",
+            "longevity": "Long-lasting",
+            "moisturizing": "Medium",
+            "formula": "Stick",
+            "photo":"https://images.tokopedia.net/img/cache/500-square/VqbcmM/2023/4/9/4100747e-7f0f-4a7f-bdca-93474f92c273.jpg"
+        },
+        {
+            "name": "Barenbliss",
+            "finish": "Sheer",
+            "pigmentation": "Low",
+            "longevity": "Regular",
+            "moisturizing": "High",
+            "formula": "Balm",
+            "photo":"https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//104/MTA-89351834/barenbliss_barenbliss-cherry-makes-cheerful-lip-velvet_full01.jpg"
+        },
+        {
+            "name": "Y.O.U",
+            "finish": "Matte",
+            "pigmentation": "High",
+            "longevity": "Long-lasting",
+            "moisturizing": "Medium",
+            "formula": "Liquid",
+            "photo":"https://dynamic.zacdn.com/MNKR8a9UKn6Zr0V3TlR7tRwcHbQ=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/you-makeups-8581-6611282-1.jpg"
+        },
+        {
+            "name": "YSL",
+            "finish": "Glossy",
+            "pigmentation": "Medium",
+            "longevity": "Regular",
+            "moisturizing": "High",
+            "formula": "Cream",
+            "photo":"https://www.yslbeauty.co.id/dw/image/v2/BFZM_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw79b69d60/images/PACKSHOTS/MAKEUP/LIPS/WW-51083YSL_new_rouge_pur_couture/3614273945165_new-rouge-pur-couture_main.jpg?sw=465&sh=465&sm=cut&sfrm=png&q=85"
+        }
+    ]
+    
+}
